@@ -1,37 +1,37 @@
 [
-  {
-    "id": "7d9bb3e27d0d",
-    "title": "The Inflection Point for Institutional Adoption in Web3",
-    "date": "April 07, 2025",
-    "category": "Insight",
-    "image": "/images/blog1.png",
-    "fileName": "blog4"
-  },
-  {
-    "id": "7d9bb3e27d0c",
-    "title": "Structured Products: The Next Frontier of Digital Assets",
-    "date": "April 07, 2025",
-    "category": "Insight",
-    "image": "/images/blog3.1.jpg",
-    "content": "https://raw.githubusercontent.com/tanmay2626/test-markdown-blogs/refs/heads/main/blog1.md",
-    "fileName": "blog3"
-  },
-  {
-    "id": "7d9bb3e27d0b",
-    "title": "A Word from CEO: Abhishek Lohiya",
-    "date": "February 19, 2025",
-    "category": "Insight",
-    "image": "/images/blog2.jpg",
-    "content": "https://raw.githubusercontent.com/tanmay2626/test-markdown-blogs/refs/heads/main/blog1.md",
-    "fileName": "blog2"
-  },
-  {
-    "id": "7d9bb3e27d0a",
-    "title": "Hedgit: Making Digital Asset Investing Safe",
-    "date": "December 18, 2024",
-    "category": "Insight",
-    "image": "/images/blog1.png",
-    "content": "https://raw.githubusercontent.com/tanmay2626/test-markdown-blogs/refs/heads/main/blog1.md",
-    "fileName": "blog1"
-  }
+    {
+        "id": "7d9bb3e27d0d",
+        "title": "The Inflection Point for Institutional Adoption in Web3",
+        "date": "April 07, 2025",
+        "category": "Insight",
+        "image": "https://raw.githubusercontent.com/tanmay2626/test-markdown-blogs/refs/heads/main/thumbnails/blog1.png",
+        "fileName": "blog4"
+    },
+    {
+        "id": "7d9bb3e27d0c",
+        "title": "Structured Products: The Next Frontier of Digital Assets",
+        "date": "April 07, 2025",
+        "category": "Insight",
+        "image": "/images/blog3.1.jpg",
+        "content": "https://raw.githubusercontent.com/tanmay2626/test-markdown-blogs/refs/heads/main/thumbnails/blog3.1.png",
+        "fileName": "blog3"
+    },
+    {
+        "id": "7d9bb3e27d0b",
+        "title": "A Word from CEO: Abhishek Lohiya",
+        "date": "February 19, 2025",
+        "category": "Insight",
+        "image": "https://raw.githubusercontent.com/tanmay2626/test-markdown-blogs/refs/heads/main/thumbnails/blog2.png",
+        "fileName": "blog2"
+    },
+    {
+        "id": "7d9bb3e27d0a",
+        "title": "HEDGIT: Making Digital Asset Investing Safe",
+        "description":
+            "HEDGIT bridges traditional finance and digital assets with risk-managed investment solutions.",
+        "date": "December 18, 2024",
+        "category": "Insight",
+        "image": "https://raw.githubusercontent.com/tanmay2626/test-markdown-blogs/refs/heads/main/thumbnails/blog1.png",
+        "fileName": "blog1"
+    }
 ]
